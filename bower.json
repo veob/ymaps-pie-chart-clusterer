@@ -1,0 +1,22 @@
+{
+  "name": "ymaps-pie-chart-clusterer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dimik/ymaps",
+  "authors": [
+    "github.com/dimik"
+  ],
+  "main": "build/pie-chart-clusterer.min.js",
+  "description": "Pie charts for yandex map clusters",
+  "keywords": [
+    "yandex",
+    "map",
+    "yamap",
+    "dimik",
+    "clusters"
+  ],
+  "license": "?",
+  "ignore": [
+    "**/.*",
+    "src/"
+  ]
+}
