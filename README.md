@@ -6,8 +6,13 @@ that represents numerical proportion of different [Placemark](https://tech.yande
 in [Cluster](https://tech.yandex.ru/maps/doc/jsapi/2.1/ref/reference/ClusterPlacemark-docpage/).
 `PieChartClusterer` class allows to construct and display such representations over geographical maps using [PieChart](http://en.wikipedia.org/wiki/Pie_chart) icon.
 
-Loading
+Install
 -------
+Install via **bower**
+
+`bower install ymaps-pie-chart-clusterer`
+
+Or via CDN
 
 1. Put module source code ([pie-chart-clusterer.min.js](https://github.com/yandex/ymaps-pie-chart-clusterer/blob/master/build/pie-chart-clusterer.min.js)) on your CDN.
 
